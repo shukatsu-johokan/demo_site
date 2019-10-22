@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html>
-<head>
+<script src="//code.jquery.com/jquery-2.2.4.min.js"></script>
+<script>
+//共通パーツ読み込み
+  $(function() {
+       $("#header").load("header.html");
+       $("#side").load("side.html");
+       $("#footer").load("footer.html");
+});
+</script>
 
 <title>文字化け？</title>
 <meta name="description" content="">
@@ -9,13 +17,18 @@
 
 </head>
 <body>
-<p>判断能力の低下で、病気、認知症、介護、死去、相続――――
-これから起こるかもしれない「もしも」のときには、子どもや家族は関わらなければなりません。</p>
-
-
-AAA<br />
-あああ<br />
-
+<div id="header">
+ここにheader.htmlが読み込まれる
+</div>  
+<div id="side">
+ここにside.htmlが読み込まれる
+</div>
+<div id="main">
+メインコンテンツは直接記述
+</div>
+<div id="footer">
+ここにfooter.htmlが読み込まれる
+</div>
 
 </body>
 </html>
