@@ -1,16 +1,13 @@
 .test1{
     border: 1px #400080 dashed;
 	width:100%;
-
-
 }
 
 .test2{
-
     border: 1px #336699 dashed;
 margin: 0 auto;
-		width:500px;
-	
+		width:600px;
+  text-align: left;	
 }
 
 #main  {
