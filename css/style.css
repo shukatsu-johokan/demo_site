@@ -47,7 +47,7 @@ border:1px #000 solid;
 	color:#00b050;
 	height:60px;
 			vertical-align:middle;
-		display: block;
+display: inline-block;
 
 }
 
@@ -58,6 +58,7 @@ ul.menu1 li:first-child {
 ul.menu1 li a {
 display:table-cell;
 		vertical-align:middle;
+	display: inline-block;
 }
 
 #main  {
