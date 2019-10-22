@@ -115,9 +115,16 @@ background: 000;
 
 #main .contents .contents_right{
 	  width: 100px;
-
+border: 5px #336699 dashed;
 	float:left;
 }
+
+#main .contents .contents_right .m_txt2 {
+  width: 100%;
+  /* border: 1px #336699 solid; */
+}
+
+
 
 
 #main .m_txt1 {
@@ -130,10 +137,6 @@ color:#ffffff;
 	
 }
 
-#main .contents .contents_right .m_txt2 {
-  width: 100px;
-    border: 1px #336699 solid;
-}
 
 
 
