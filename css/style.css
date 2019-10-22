@@ -112,8 +112,8 @@ background: 000;
 }
 
 #main .#contents_right{
-	  width: 500px;
-    border: 1px #ff8080 solid;
+	  width: 100px;
+
 	float:right;
 }
 
@@ -121,7 +121,6 @@ background: 000;
 #main .m_txt1 {
 color:#ffffff;
 	background:#0070c0;
-
 		font-size:30px;
   text-align: center;
 	width:100%;
