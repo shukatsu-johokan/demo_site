@@ -130,8 +130,8 @@ color:#ffffff;
 	
 }
 
-#main .m_txt2 {
-  width: 1400px;
+#main .contents .contents_right .m_txt2 {
+  width: 100px;
     border: 1px #336699 solid;
 }
 
