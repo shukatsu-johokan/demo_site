@@ -1,3 +1,8 @@
+a {
+text-decoration: none;
+border-bottom: 0px ;
+}
+
 a:link { color: #0000ff; }
 a:visited { color: #000080; }
 a:hover { color: #ff0000; }
