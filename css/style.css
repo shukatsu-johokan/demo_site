@@ -61,8 +61,7 @@ display:table-cell;
 }
 
 #main  {
-background: 000;
-    border: 10px;
+    border: 10px #ff8080 dashed;
 }
 
 #main .contents{
