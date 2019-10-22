@@ -75,7 +75,11 @@ background: 000;
     border: 1px #336699 solid;
 	float:left;
 }
-
+#main .#contents_right{
+	  width: 500px;
+    border: 1px #336699 solid;
+	float:left;
+}
 
 
 #main .m_txt1 {
@@ -94,10 +98,7 @@ color:#ffffff;
     border: 1px #336699 solid;
 }
 
-#main .#contents_right{
-    border: 1px #336699 solid;
-	float:left;
-}
+
 
 #side{
 
