@@ -94,6 +94,11 @@ color:#ffffff;
     border: 1px #336699 solid;
 }
 
+#main .#contents_right{
+    border: 1px #336699 solid;
+	float:left;
+}
+
 #side{
 
 }
