@@ -149,3 +149,9 @@ color:#ffffff;
 clear: both;
 }
 
+#footer .footer_ground{
+	background: #029992;
+		width:100%;
+	border: 5px #ff8080 dashed;
+}
+
