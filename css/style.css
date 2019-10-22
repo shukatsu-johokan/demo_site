@@ -17,9 +17,7 @@ a:active { color: #ff8000; }
 #header .h_txt1 {
 	background: #029992;
 	color:#ffffff;
-	font-size:20px;
-	text-aling:center;
-	width:100%;
+
 
 }
 
@@ -77,6 +75,10 @@ color:#ffffff;
 	background:#0070c0;
 	
     border: 1px #336699 solid;
+		font-size:20px;
+	text-aling:center;
+	width:100%;
+	
 }
 
 #main .m_txt2 {
