@@ -87,7 +87,7 @@ background: 000;
 #main .contents_left .headi{
   position: relative;
   display: inline-block;
-
+  padding: 0.25em 0.5em;
   text-decoration: none;
   color: #FFF;
   background: #fd9535;/*背景色*/
@@ -98,6 +98,7 @@ background: 000;
 	 width: 215px;
 	  text-align: center;
 		float:left;
+	margin: 0px;
 }
 
 
