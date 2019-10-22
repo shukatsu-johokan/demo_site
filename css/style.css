@@ -113,7 +113,7 @@ background: 000;
 	font-size:13px;
 }
 
-#main .contents_right{
+#main .contents .contents_right{
 	  width: 100px;
 
 	float:left;
