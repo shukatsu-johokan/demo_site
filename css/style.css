@@ -21,6 +21,13 @@ p { line-height: 140%; }
 }
 
 
+#header li {
+float:left;
+list-style-type:none;
+}
+
+
+
 #main  {
 background: 000;
     border: 10px;
