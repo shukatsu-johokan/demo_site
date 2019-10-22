@@ -36,6 +36,7 @@ ul.menu1 li {
   display: inline-block;
   text-align: center;
   font-size:14px;
+	color:#effed9;
 }
 
 ul.menu1 li:first-child {
