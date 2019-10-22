@@ -79,9 +79,10 @@ background: 000;
 
 #main .contents_left .comb{
   width: 100%;
-   /* border: 1px #7092be solid;*/
+   /**/ border: 1px #7092be solid;
+		margin-bottom:5px;
 	clear:both;
-	margin:0px 0px 5px 0px;
+
 
 }
 
