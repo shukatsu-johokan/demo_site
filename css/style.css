@@ -1,3 +1,14 @@
+.maas {  
+    width: 100%;  
+    border: 1px solid #000;  
+}  
+.maas div   {  
+    width: 80%;  
+    border: 1px solid #FF0000;  
+    margin: 0 auto;  
+}  
+
+
 .test1 {
     border: 1px #400080 dashed;
 	width:100%;
