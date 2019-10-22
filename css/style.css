@@ -17,8 +17,9 @@ a:active { color: #ff8000; }
 #header .h_txt1 {
 	background: #029992;
 	color:#ffffff;
-	font-size:12px;
-	padding: 5px 0px 5px 10px;
+	font-size:20px;
+	text-aling:center;
+	width:100%;
 
 }
 
