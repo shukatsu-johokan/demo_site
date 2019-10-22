@@ -95,7 +95,7 @@ background: 000;
 #main .contents_left .expa{
     border: 1px #bcbcbc solid;
 	padding:5px 0px 5px 0px;
-
+	float:left;
 }
 
 #main .#contents_right{
