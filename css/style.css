@@ -11,6 +11,7 @@ a:active { color: #ff8000; }
 
 #header  {
 border: 5px #ffff00 dashed;
+	  width: 1400px;
 }
 
 
