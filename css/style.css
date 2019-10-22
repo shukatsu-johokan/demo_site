@@ -76,6 +76,13 @@ background: 000;
 	float:left;
 }
 
+
+#main .contents_left .comb{
+  width: 100%;
+    border: 1px #7092be solid;
+
+}
+
 #main .contents_left .headi{
   position: relative;
   display: inline-block;
