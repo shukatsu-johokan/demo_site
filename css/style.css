@@ -10,7 +10,7 @@ a:active { color: #ff8000; }
 
 
 #header  {
-    border: 10px;
+border: 5px #ffff00 dashed;
 }
 
 
@@ -61,7 +61,7 @@ display:table-cell;
 }
 
 #main  {
-    border: 10px #ff8080 dashed;
+    border: 5px #400080 dashed;
 }
 
 #main .contents{
@@ -146,6 +146,8 @@ color:#ffffff;
 
 #footer{
 clear: both;
+	
+border: 5px #400000 dashed;
 }
 
 #footer .footer_ground{
