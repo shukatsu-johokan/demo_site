@@ -114,8 +114,9 @@ background: 000;
 }
 
 #main .contents .contents_right{
-	  width: 100px;
+	  width: 300px;
 border: 5px #336699 dashed;
+	margin:0px 0px 0px 10px;
 	float:left;
 }
 
