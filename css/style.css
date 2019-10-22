@@ -39,6 +39,7 @@ ul.menu1 li {
 	background:#effed9;
 	color:#00b050;
 	height:60px;
+	vertical-align:middle;
 }
 
 ul.menu1 li:first-child {
