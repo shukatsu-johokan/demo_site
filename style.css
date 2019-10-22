@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+#header .h_txt1 {
+	background: 336699;
+    border: 1px;
+}
+
+#header .h_txt1 {
+	background: 000;
+  border: 1px;
+}
