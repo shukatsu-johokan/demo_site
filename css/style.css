@@ -71,7 +71,7 @@ display:table-cell;
 
 #main .contents_left{
   width: 700px;
-    /* border: 10px #ff8080 solid;*/
+    /**/ border: 10px #008040 solid;
 	float:left;
 }
 
