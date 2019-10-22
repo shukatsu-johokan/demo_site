@@ -1,3 +1,15 @@
+.test1{
+    border: 1px #400080 dashed;
+	width:100%;
+}
+
+.test2{
+
+    border: 1px #336699 dashed;
+	
+		width:500px;
+}
+
 #main  {
     border: 5px #400080 dashed;
 	  width:100%;
