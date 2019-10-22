@@ -2,13 +2,13 @@
     border: 1px #400080 dashed;
 	width:100%;
 
-			text-align:left;
+
 }
 
 .test2{
 
     border: 1px #336699 dashed;
-	  text-align: center;	
+margin: 0 auto;
 		width:500px;
 	
 }
