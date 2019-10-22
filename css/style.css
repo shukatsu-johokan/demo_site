@@ -1,6 +1,7 @@
 .test1{
     border: 1px #400080 dashed;
 	width:100%;
+	text-align:center;
 }
 
 .test2{
@@ -8,6 +9,7 @@
     border: 1px #336699 dashed;
 	
 		width:500px;
+		text-align:left;
 }
 
 #main  {
