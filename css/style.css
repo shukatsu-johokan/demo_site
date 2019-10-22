@@ -70,13 +70,13 @@ background: 000;
     border: 1px #336699 solid;
 }
 
-#main .contents-left{
+#main .contents_left{
   width: 50%;
     border: 1px #336699 solid;
 		float:left;
 }
 
-#main .contents-right{
+#main .contents_right{
   width: 50%;
     border: 1px #ff3300 solid;
 	float:left;
