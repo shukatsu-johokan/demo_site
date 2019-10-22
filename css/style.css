@@ -1,3 +1,11 @@
+#main  {
+    border: 5px #400080 dashed;
+	  width:100%;
+
+}
+
+
+
 a {
 text-decoration: none;
 border-bottom: 0px ;
@@ -61,11 +69,6 @@ display:table-cell;
 	display: inline-block;
 }
 
-#main  {
-    border: 5px #400080 dashed;
-	  width:100%;
-	text-align:center
-}
 
 #main .contents{
   width: 1400px;
