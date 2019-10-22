@@ -71,4 +71,15 @@ background: 000;
     border: 1px #336699 solid;
 }
 
+#main .m_txt1 {
+color:#ffffff;
+	background:#0070c0;
+	
+    border: 1px #336699 solid;
+}
+
+#main .m_txt2 {
+  width: 1400px;
+    border: 1px #336699 solid;
+}
 
