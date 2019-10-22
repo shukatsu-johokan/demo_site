@@ -33,7 +33,7 @@ a:active { color: #ff8000; }
 
 ul.menu1 {
   width: 1400px;
-
+border:1px #111111 solid;
   padding:0;
   font-size:0px;
 }
