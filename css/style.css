@@ -80,6 +80,7 @@ background: 000;
 #main .contents_left .comb{
   width: 100%;
     border: 1px #7092be solid;
+	clear:both;
 
 }
 
