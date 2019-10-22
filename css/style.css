@@ -67,7 +67,7 @@ display:table-cell;
 
 #main .contents{
   width: 1400px;
-    border: 5px #ff8000 dashed;
+    border: 15px #000000 dashed;
 }
 
 #main .contents_left{
