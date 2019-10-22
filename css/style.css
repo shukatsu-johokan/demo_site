@@ -70,6 +70,19 @@ background: 000;
     border: 1px #336699 solid;
 }
 
+#main .contents-left{
+  width: 50%;
+    border: 1px #336699 solid;
+		float:left;
+}
+
+#main .contents-right{
+  width: 50%;
+    border: 1px #ff3300 solid;
+	float:left;
+}
+
+
 #main .m_txt1 {
 color:#ffffff;
 	background:#0070c0;
