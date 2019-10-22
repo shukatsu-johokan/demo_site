@@ -32,13 +32,13 @@ ul.menu1 {
 
 ul.menu1 li {
   width:150px;
-  border:1px solid black;
   display: inline-block;
   text-align: center;
   font-size:14px;
 	background:#effed9;
 	color:#00b050;
 	height:60px;
+			vertical-align:middle;
 
 }
 
