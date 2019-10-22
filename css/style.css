@@ -1,9 +1,9 @@
-.h_txt1 {
+#header .h_txt1 {
 	background: 336699;
     border: 1px;
 }
 
-.h_txt2 {
+#header .h_txt2 {
 	background: 000;
   border: 1px;
 }
