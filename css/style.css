@@ -47,7 +47,7 @@ ul.menu1 li:first-child {
 }
 
 ul.menu1 li a {
-  display: block;
+display: inline-block
 		vertical-align:middle;
 }
 
