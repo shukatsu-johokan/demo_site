@@ -70,6 +70,12 @@ background: 000;
     border: 1px #336699 solid;
 }
 
+#main .contents_left{
+  width: 500px;
+    border: 1px #336699 solid;
+	float:left;
+}
+
 
 
 #main .m_txt1 {
