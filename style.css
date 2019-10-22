@@ -1,13 +1,14 @@
 #header .h_txt1 {
-	background: 336699;
+	background: #336699;
     border: 1px;
 }
 
 #header .h_txt1 {
-	background: 000;
+	background: #000;
   border: 1px;
 }
 
 .m_txt1{
 font-size:120%;
+color:#ff3300;
 }
