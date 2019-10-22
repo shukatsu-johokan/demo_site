@@ -38,6 +38,7 @@ ul.menu1 li {
   font-size:14px;
 	background:#effed9;
 	color:#00b050;
+	height:60px;
 }
 
 ul.menu1 li:first-child {
