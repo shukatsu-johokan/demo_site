@@ -199,6 +199,9 @@ padding:10px;
 	margin:0px 0px 0px 10px;
 /* 	float:left;*/
 float:right;
+border: 1px #bcbcbc solid;	
+	line-height: 130%;
+	
 }
 
 #main .contents .contents_right .m_txt2 {
