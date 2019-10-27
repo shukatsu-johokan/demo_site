@@ -135,10 +135,10 @@ margin: 0 auto;
 }
 
 .c_box1{
-/**/border: 10px #000 dashed;
+/*border: 10px #000 dashed;*/
 	  width: 100%;
 		clear:both;
-margin-bottom:5px;	
+margin:5px;	
 	
 	
 }
