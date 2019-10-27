@@ -12,10 +12,14 @@ border: 5px #ffff00 dashed;
 
 #header .h_txt1 {
 	background: #029992;
+	 width:100%;
+}
+
+#header .h_txt1 p{
 	color:#ffffff;
 	font-size:12px;
 	padding:5px;
-	 width:100%;
+	 width:1250px;
 }
 
 #header .h_txt2 {
