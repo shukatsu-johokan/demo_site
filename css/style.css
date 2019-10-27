@@ -120,8 +120,9 @@ background-color: #95A38D;
 
 
 .top_img{
+	 width: 1000px;
 margin: 0 auto; 
-	    border: 5px #000 solid;
+	/*    border: 5px #000 solid;*/
 }
 
 
