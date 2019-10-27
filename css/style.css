@@ -254,6 +254,7 @@ color:#ffffff;
 /*clear: both;*/
 	margin-top:10px;	
 /**/border: 5px #400000 dashed;
+	float:left;
 }
 
 #footer .footer_ground{
