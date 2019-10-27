@@ -134,11 +134,11 @@ margin: 0 auto;
 }
 
 #main .contents .contents_right{
-/*  width: 500px;*/
+/**/  width: 500px;
 border: 5px #ff0080 dashed;
 	margin:0px 0px 0px 10px;
 	float:left;
-		width: 50%;
+
 }
 
 #main .contents .contents_right .m_txt2 {
