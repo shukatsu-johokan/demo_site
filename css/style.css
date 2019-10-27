@@ -82,7 +82,8 @@ padding: 0;
 list-style: none;
 /**/ border: 5px #7315e1 dashed;
 clear:both;
-	
+	background-image: url("./img/ul_bg.png");
+background-repeat: repeat-x;		
 	  width: 1250px;	
 
 }
@@ -94,8 +95,7 @@ display: inline;
 padding: 0;
 margin: 0;
 float: left;
-	background-image: url("img/ul_bg.png");
-background-repeat: repeat-x;	
+
 }
 
 .menu_top li a{
