@@ -259,6 +259,7 @@ clear: both;
 	background: #029992;
 		width:100%;
 	/*border: 5px #ff8080 dashed; */
+		margin-top:10px;	
 }
 
 #footer .copy{
