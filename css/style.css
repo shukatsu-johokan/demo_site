@@ -80,7 +80,7 @@ padding:0px;
 	/*	height:150px;*/
 padding: 0;
 list-style: none;
-/**/ border: 5px #7315e1 dashed;
+/*border: 5px #7315e1 dashed;*/ 
 clear:both;
 	background-image: url("./img/ul_bg.png");
 background-repeat: repeat-x;		
