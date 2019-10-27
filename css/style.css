@@ -82,9 +82,10 @@ background-color: #95A38D;
 }
 
 #main .contents_left{
-  width: 700px;
+/*  width: 700px;*/
     /**/ border: 10px #008040 solid;
 	float:left;
+	width: 50%;
 }
 
 
@@ -125,10 +126,11 @@ background-color: #95A38D;
 }
 
 #main .contents .contents_right{
-	  width: 500px;
+/*  width: 500px;*/
 border: 5px #ff0080 dashed;
 	margin:0px 0px 0px 10px;
 	float:left;
+		width: 50%;
 }
 
 #main .contents .contents_right .m_txt2 {
