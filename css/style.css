@@ -1,5 +1,5 @@
 #main  {
-    border: 5px #400080 dashed;
+ /*   border: 5px #400080 dashed;*/	
 
 }
 
@@ -32,13 +32,13 @@ border: 5px #ffff00 dashed;
 }
 
 .top_box{
-border: 5px #000 solid;
+ /* border: 5px #000 solid;*/	
 	 width:1250px;
 	margin: 0 auto;  
 }
 
 .top_box_left{
-border: 5px #000 solid;
+ /* border: 5px #000 solid;*/
 	 width:500px;
 	float:left;
 }
