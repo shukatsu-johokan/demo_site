@@ -81,6 +81,13 @@ background-color: #95A38D;
 		   /**/ margin: 0 auto;  
 }
 
+
+.top_img{
+margin: 0 auto; 
+}
+
+
+
 #main .contents_left{
 /**/  width: 700px;
     /**/ border: 10px #008040 solid;
