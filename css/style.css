@@ -53,11 +53,13 @@ float: left;
 }
 
 .menu_top li a{
+/*	margin: 10px 0px 10px 0px;*/
+	margin: 0 auto; 
 display: block;
 width: 115px;
 /*padding: 5px;*/
 padding: 10px;
-margin: 10px 0px 10px 0px;
+
 text-decoration: none;
 border:outset 3px #C2CBBD;
 background-color: #C2CBBD;
