@@ -108,16 +108,26 @@ margin: 0 auto;
 /*	width: 50%;*/
 }
 
-
-#main .contents_left .comb{
+.comb{
   width: 100%;
-   /**/ border: 1px #7092be solid;
+    border: 1px #7092be solid;
 		margin-bottom:15px;
 	clear:both;
 
 
 }
 
+
+/*
+#main .contents_left .comb{
+  width: 100%;
+    border: 1px #7092be solid;
+		margin-bottom:15px;
+	clear:both;
+
+
+}
+*/
 #main .contents_left .headi{
   position: relative;
   display: inline-block;
