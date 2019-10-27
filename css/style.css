@@ -39,9 +39,11 @@ a:hover { color: #ff0000; }
 a:active { color: #ff8000; }
 
 #menu_top ul{
-margin: 0;
+	    border: 1px #400080 solid;
+/*margin: 0;*/
 padding: 0;
 list-style: none;
+	margin: 0 auto;  
 }
 #menu_top li{
 display: inline;
