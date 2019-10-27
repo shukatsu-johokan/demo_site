@@ -137,8 +137,8 @@ margin: 0 auto;
 /**/  width: 500px;
 border: 5px #ff0080 dashed;
 	margin:0px 0px 0px 10px;
-	float:left;
-
+/* 	float:left;*/
+float:right;
 }
 
 #main .contents .contents_right .m_txt2 {
