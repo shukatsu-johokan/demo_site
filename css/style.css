@@ -40,8 +40,9 @@ a:active { color: #ff8000; }
 
 
 #menu_top{
-	    border: 1px #400080 solid;
-		margin: 0 auto;  
+border: 5px #ffff00 dashed;
+	  width: 1300px;
+	   /**/ margin: 0 auto; 
 }
 
 
