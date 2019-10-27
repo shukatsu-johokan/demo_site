@@ -50,8 +50,11 @@ a:active { color: #ff8000; }
 /*margin: 0;*/
 padding: 0;
 list-style: none;
-	/*margin: 0 auto;  */
+	/* */margin: 0 auto; 
 }
+
+
+
 #menu_top li{
 display: inline;
 padding: 0;
