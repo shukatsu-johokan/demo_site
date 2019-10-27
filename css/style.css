@@ -82,10 +82,10 @@ background-color: #95A38D;
 }
 
 #main .contents_left{
-/*  width: 700px;*/
+/**/  width: 700px;
     /**/ border: 10px #008040 solid;
 	float:left;
-	width: 50%;
+/*	width: 50%;*/
 }
 
 
