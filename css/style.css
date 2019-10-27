@@ -209,7 +209,11 @@ border: 1px #bcbcbc solid;
   /* border: 1px #336699 solid; */
 }
 
+.contents_right h3{
+text-align:center;
+	font-size:110%;
 
+}
 
 
 #main .m_txt1 {
