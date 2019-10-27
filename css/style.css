@@ -20,6 +20,7 @@ border: 5px #ffff00 dashed;
 	font-size:12px;
 	padding:5px;
 	 width:1250px;
+	margin: 0 auto;  
 }
 
 #header .h_txt2 {
