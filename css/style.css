@@ -36,11 +36,11 @@ border: 5px #73cd80 dashed;
 
 
 .menu_top ul{
-
-/**/margin: 0;
+	/**/ margin: 0 auto; 
+/*margin: 0;*/
 padding: 0;
 list-style: none;
-	/* margin: 0 auto; */
+
 }
 
 
