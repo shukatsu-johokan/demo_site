@@ -26,9 +26,10 @@ border: 5px #ffff00 dashed;
 
 
 .menu_top{
+	/*	  width: 1300px; */
 border: 5px #73cd80 dashed;
-	  width: 1300px;
-	   /**/ margin: 0 auto; 
+
+	   margin: 0 auto; 
 }
 
 
