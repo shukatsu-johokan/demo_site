@@ -28,30 +28,31 @@ border: 5px #ffff00 dashed;
 
 
 
-#menu_top{
+.menu_top{
 border: 5px #73cd80 dashed;
 	  width: 1300px;
 	   /**/ margin: 0 auto; 
 }
 
 
-#menu_top ul{
+.menu_top ul{
 
-/*margin: 0;*/
+/**/margin: 0;
 padding: 0;
 list-style: none;
-	/* */margin: 0 auto; 
+	/* margin: 0 auto; */
 }
 
 
 
-#menu_top li{
+.menu_top li{
 display: inline;
 padding: 0;
 margin: 0;
 float: left;
 }
-#menu_top li a{
+
+.menu_top li a{
 display: block;
 width: 115px;
 /*padding: 5px;*/
@@ -63,7 +64,6 @@ background-color: #C2CBBD;
 text-align: center;
 color: #000000;
 font-size: 14px;
-
 }
 
 #menu_top li a:hover{
