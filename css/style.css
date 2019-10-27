@@ -78,6 +78,7 @@ background-color: #95A38D;
 #main .contents{
   width: 1400px;
     border: 15px #000000 dashed;
+		   /**/ margin: 0 auto;  
 }
 
 #main .contents_left{
