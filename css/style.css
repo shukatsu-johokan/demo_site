@@ -279,3 +279,7 @@ color:#fff;
 	text-align:center;
 }
 
+/*dementia start*/
+h1.dementia{
+border: 5px #400000 dashed;
+}
