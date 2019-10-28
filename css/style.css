@@ -281,6 +281,7 @@ color:#fff;
 
 /*dementia start*/
 h1.dementia{
-border: 5px #400000 dashed;
+/*border: 5px #400000 dashed;*/
 	margin-left:20px;
+	color:#0070c0;
 }
