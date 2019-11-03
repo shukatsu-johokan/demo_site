@@ -302,6 +302,7 @@ table.dementia{
  border-collapse: collapse;
   border: solid 1px #400000;
 	width:50%;
+		font-size:13px;
 }
 table th {
   border: solid 1px #400000;
