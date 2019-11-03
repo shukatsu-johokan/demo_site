@@ -280,6 +280,15 @@ color:#fff;
 }
 
 /*dementia start*/
+dementia_contents_left{
+/**/  width: 700px;
+    /**/ border: 10px #008040 solid;
+	float:left;
+/*	width: 50%;*/
+
+}
+
+
 h1.dementia{
 /*border: 5px #400000 dashed;*/
 	margin-left:20px;
