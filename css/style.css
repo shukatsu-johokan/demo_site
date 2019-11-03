@@ -326,3 +326,13 @@ table td.ct {
 	padding:5px;
 text-align:center;
 }
+
+
+.dementia_sys{
+/*border: 1px #400000 dashed;*/
+
+  border: solid 1px #400000;
+	width:40%;
+		font-size:13px;
+		float:left;
+}
