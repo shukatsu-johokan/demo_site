@@ -340,9 +340,10 @@ color:#fff;
 
 
 .d_img_b{
+	 /*		float:left;*/
   /* */border: 1px #bcbcbc solid;
-		width: 500px;
-		float:left;
+		width: 100%;
+
 		margin-top:20px;
  margin: 0 auto;  
 	padding:10px;
