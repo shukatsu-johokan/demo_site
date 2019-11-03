@@ -301,7 +301,7 @@ table.dementia{
 /*border: 1px #400000 dashed;*/
  border-collapse: collapse;
   border: solid 1px #400000;
-	width:50%;
+	width:40%;
 		font-size:13px;
 			float:left;
 	margin-left:20px;
@@ -337,5 +337,5 @@ text-align:center;
 	width:40%;
 		font-size:13px;
 		float:left;
-		margin-left:10px;
+		margin-left:20px;
 }
