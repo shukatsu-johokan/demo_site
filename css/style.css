@@ -302,7 +302,8 @@ table.dementia{
 }
 
 
-table.dementia tr{
-/**/border: 1px #400000 dashed;
 
+th {
+  color: #FF9800;/*文字色*/
+  background: #fff5e5;/*背景色*/	
 }
