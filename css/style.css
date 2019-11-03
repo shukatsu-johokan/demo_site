@@ -322,6 +322,11 @@ color:#fff;
 	font-size:13px;
 }
 
+.d_img_001{
+   border: 1px #bcbcbc solid;
+		width: 450px;
+		float:left;
+}
 
 h1.dementia{
 /*border: 5px #400000 dashed;*/
