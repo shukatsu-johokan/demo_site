@@ -547,3 +547,14 @@ p.dementia_title2{
 	width: 450px;
 	font-size:13px;
 }
+
+.example {
+  box-shadow: 2px 2px 4px;
+}
+
+
+.moving_contents_left h3{
+text-align:center;
+	font-size:125%;
+  box-shadow: 2px 2px 4px;
+}
