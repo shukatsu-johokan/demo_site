@@ -323,12 +323,12 @@ color:#fff;
 }
 
 .d_img_001{
-   border: 1px #bcbcbc solid;
-	/*	width: 450px;*/
+  /* border: 1px #bcbcbc solid;
+		width: 450px;*/
 		float:left;
 }
 .c_box_top{
- border: 1px #bcbcbc solid;
+ /*border: 1px #bcbcbc solid;*/
 	float:left;
 	width: 700px;
 }
