@@ -594,3 +594,20 @@ p.moving_comment_title1{
 		float:left;
 	margin-left:50px;
 }
+
+
+.m_box_top{
+ /**/border: 1px #bcbcbc solid;
+	float:left;
+	width: 700px;
+}
+
+.m_box2{
+/**/border: 10px #000 dashed;
+	  width: 100%;
+			float:left;
+	/*	clear:both;*/
+padding:10px;	
+	
+	
+}
