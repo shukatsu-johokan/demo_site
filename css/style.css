@@ -330,7 +330,7 @@ color:#fff;
 }
 
 .d_img{
-  /**/ border: 1px #bcbcbc solid;
+  /* border: 1px #bcbcbc solid;*/
 		width: 350px;
 		float:left;
 		margin-top:20px;
