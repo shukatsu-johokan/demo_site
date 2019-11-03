@@ -572,3 +572,17 @@ width:100%;
 	padding:10px;
 			font-size:13px;
 }
+
+
+.moving_comment h4{
+		margin-top:0px;
+			margin-bottom:0px;
+		font-size:30px;
+	color:#0070c0;
+}
+
+p.moving_comment_title1{
+	margin-top:0px;
+		font-size:20px;
+	font-weight:bold;
+}
