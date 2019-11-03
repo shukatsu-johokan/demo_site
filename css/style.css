@@ -327,6 +327,7 @@ h1.dementia{
 	margin-left:20px;
 	color:#0070c0;
 		font-size:30px;
+
 }
 
 h2.dementia{
@@ -336,6 +337,7 @@ h2.dementia{
 		margin-bottom:0px;
 	color:#0070c0;
 		font-size:30px;
+			float:left;
 }
 
 
