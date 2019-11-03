@@ -285,12 +285,12 @@ color:#fff;
 /*dementia start*/
 
 .dementia_contents_left{
-/**/  width: 1000px;
-    /**/ border: 10px #008040 solid;
+/**/  width: 1200px;
+    /**/ border: 1px #008040 solid;
 	float:left;
-/*	width: 50%;*/
-	margin-left:50px;
-
+/*	width: 50%;
+	margin-left:50px;*/
+	margin: 0 auto;  
 }
 
 
