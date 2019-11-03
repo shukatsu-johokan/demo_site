@@ -301,10 +301,10 @@ table.dementia{
 /*border: 1px #400000 dashed;*/
  border-collapse: collapse;
   border: solid 1px #400000;
-	width:40%;
+	width:50%;
 		font-size:13px;
 			float:left;
-	margin-left:20px;
+	margin-left:30px;
 }
 table th {
   border: solid 1px #400000;
