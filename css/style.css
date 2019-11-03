@@ -309,7 +309,13 @@ table th {
   /*実線 1px 黒*/
 	  color: #FF9800;/*文字色*/
   background: #fff5e5;/*背景色*/	
+
 }
+
+table th.ct {
+		padding:5px;
+}
+
 
 table td {
   border: solid 1px #400000;
