@@ -280,12 +280,40 @@ color:#fff;
 }
 
 /*dementia start*/
-dementia_contents_left{
+.dementia_contents_left{
 /**/  width: 700px;
     /**/ border: 10px #008040 solid;
 	float:left;
 /*	width: 50%;*/
 
+}
+
+
+#main .dementia_contents_left .headi{
+  position: relative;
+  display: inline-block;
+  padding: 0.25em 0.5em;
+  text-decoration: none;
+  color: #FFF;
+  background: #fd9535;/*背景色*/
+  border-bottom: solid 2px #d27d00;/*少し濃い目の色に*/
+  border-radius: 4px;/*角の丸み*/
+  box-shadow: inset 0 2px 0 rgba(255,255,255,0.2), 0 2px 2px rgba(0, 0, 0, 0.19);
+  font-weight: bold;	
+	 width: 215px;
+	  text-align: center;
+		float:left;
+	margin: 0px;
+}
+
+
+#main .dementia_contents_left .expa{
+    border: 1px #bcbcbc solid;
+	padding:5px 0px 5px 5px;
+	float:left;
+	margin:0px 0px 0px 10px;
+	width: 450px;
+	font-size:13px;
 }
 
 
