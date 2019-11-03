@@ -304,6 +304,7 @@ table.dementia{
 	width:50%;
 		font-size:13px;
 			float:left;
+	margin-left:10px;
 }
 table th {
   border: solid 1px #400000;
@@ -336,4 +337,5 @@ text-align:center;
 	width:40%;
 		font-size:13px;
 		float:left;
+		margin-left:10px;
 }
