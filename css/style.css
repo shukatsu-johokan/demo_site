@@ -285,8 +285,8 @@ color:#fff;
 /*dementia start*/
 
 .dementia_contents_left{
-/**/  width: 800px;
-    /* border: 10px #008040 solid;*/
+/**/  width: 1300px;
+    /**/ border: 10px #008040 solid;
 	float:left;
 /*	width: 50%;*/
 	margin-left:50px;
