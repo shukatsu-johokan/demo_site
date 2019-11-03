@@ -327,6 +327,10 @@ color:#fff;
 	/*	width: 450px;*/
 		float:left;
 }
+c_box_top{
+ border: 1px #bcbcbc solid;
+	float:left;
+}
 
 .c_box2{
 /**/border: 10px #000 dashed;
