@@ -340,13 +340,15 @@ color:#fff;
 
 
 .d_img_b{
-	 /*		float:left;*/
+	 /*		float:left;
+	padding:10px;
+	*/
   /* */border: 1px #bcbcbc solid;
-		width: 100%;
+		width: 500px;
 
 		margin-top:20px;
  margin: 0 auto;  
-	padding:10px;
+	
 }
 
 .c_box_top{
