@@ -313,3 +313,6 @@ table td {
   /*実線 1px 黒*/
 }
 
+table td.ct {
+text-align:center;
+}
