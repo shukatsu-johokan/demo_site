@@ -491,3 +491,19 @@ p.dementia_title2{
 		font-size:15px;
 	font-weight:bold;
 }
+
+
+/*moving start*/
+/*moving start*/
+/*moving start*/
+/*moving start*/
+
+.moving_contents_left{
+	width: 85%;
+/* width: 1200px;*/ 
+    /**/ border: 1px #008040 solid;
+ /*	float:left;*/ 
+/*	width: 50%;
+	margin-left:50px;*/
+	margin: 0 auto;  
+}
