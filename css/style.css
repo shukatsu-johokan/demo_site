@@ -297,18 +297,19 @@ h2.dementia{
 
 
 table.dementia{
-/**/border: 1px #400000 dashed;
-
+/*border: 1px #400000 dashed;*/
+ border-collapse: collapse;
+  border: solid 1px #400000;
 }
 table th {
-  border: solid 1px black;
+  border: solid 1px #400000;
   /*実線 1px 黒*/
 	  color: #FF9800;/*文字色*/
   background: #fff5e5;/*背景色*/	
 }
 
 table td {
-  border: solid 1px black;
+  border: solid 1px #400000;
   /*実線 1px 黒*/
 }
 
